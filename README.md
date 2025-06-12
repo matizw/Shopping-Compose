@@ -1,5 +1,6 @@
 # Shopping-Compose
 
+Android Developer Test Simulation - V4.1 Hacker Earth Test
 
 For the Code Exercise section, you should download/clone the source code from this repo.
 
